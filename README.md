@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CristianRomerounad
+- 👋 Hi, I’m Cristian Romero
 - 👀 I’m interested in Automatization, Health, and plants
 - 🌱 I’m currently learning Engineer systems
 - 💞️ I’m looking to collaborate on start-up about technology projects or business
